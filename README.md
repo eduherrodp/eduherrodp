@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduherrodp
-- 👀 I’m interested in data mining, web development
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in data mining, web development and cloud computing 
+- 🌱 I’m currently learning Google Cloud Computing 
 - 📫 How to reach me:
 
 ig: __edhe
