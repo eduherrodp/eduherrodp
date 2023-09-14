@@ -7,4 +7,7 @@ ig: __edhe
 tw: __edhe
 fb: eduherr
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduherrodp)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduherrodp)](https://github.com/eduherrodo/github-readme-stats) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduherrodp&layout=donut)](https://github.com/eduherrodp/github-readme-stats)
